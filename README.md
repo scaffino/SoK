@@ -1,4 +1,4 @@
-# SoK_Papers
+# SoK
 A collection of blockchain-related SoK papers.
 
 - [SoK: Decentralized Finance (DeFi)](https://arxiv.org/pdf/2101.08778.pdf)
