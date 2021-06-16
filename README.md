@@ -1,5 +1,5 @@
 # SoK
-A collection of blockchain-related SoK papers.
+A list of blockchain-related SoK papers.
 
 - [SoK: Decentralized Finance (DeFi)](https://arxiv.org/pdf/2101.08778.pdf)
 - [SoK: Communication Across Distributed Ledgers](https://eprint.iacr.org/2019/1128.pdf)
