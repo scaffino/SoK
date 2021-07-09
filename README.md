@@ -9,4 +9,4 @@ A list of blockchain-related SoK papers.
 - [SoK: Sharding on Blockchain](https://eprint.iacr.org/2019/1178.pdf)
 - [SoK: Exploring Blockchains Interoperability](https://eprint.iacr.org/2021/537.pdf)
 - [SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies](https://oaklandsok.github.io/papers/bonneau2015.pdf)
-- [](https://eprint.iacr.org/2021/911.pdf)
+- [SoK: Understanding BFT Consensus in the Age of Blockchains](https://eprint.iacr.org/2021/911.pdf)
