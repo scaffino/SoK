@@ -10,3 +10,4 @@ A list of blockchain-related SoK papers.
 - [SoK: Exploring Blockchains Interoperability](https://eprint.iacr.org/2021/537.pdf)
 - [SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies](https://oaklandsok.github.io/papers/bonneau2015.pdf)
 - [SoK: Understanding BFT Consensus in the Age of Blockchains](https://eprint.iacr.org/2021/911.pdf)
+- [SoK: Decentralized Exchanges (DEX) with Automated Market Maker (AMM) protocols](https://arxiv.org/pdf/2103.12732.pdf)
