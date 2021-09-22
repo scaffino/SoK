@@ -12,3 +12,5 @@ A list of blockchain-related SoK papers.
 - [SoK: Understanding BFT Consensus in the Age of Blockchains](https://eprint.iacr.org/2021/911.pdf)
 - [SoK: Decentralized Exchanges (DEX) with Automated Market Maker (AMM) protocols](https://arxiv.org/pdf/2103.12732.pdf)
 - [SoK: Lending Pools in Decentralized Finance](https://arxiv.org/pdf/2012.13230.pdf)
+- [SoK: Decentralized Exchanges (DEX) with Automated Market Maker (AMM) protocols](https://berkeley-defi.github.io/assets/material/DEX%20with%20AMM%20Protocols.pdf)
+- [SoK: Transparent Dishonesty: front-running attacks on Blockchain](https://arxiv.org/pdf/1902.05164.pdf)
