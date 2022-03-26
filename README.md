@@ -14,3 +14,8 @@ A list of blockchain-related SoK papers.
 - [SoK: Lending Pools in Decentralized Finance](https://arxiv.org/pdf/2012.13230.pdf)
 - [SoK: Decentralized Exchanges (DEX) with Automated Market Maker (AMM) protocols](https://berkeley-defi.github.io/assets/material/DEX%20with%20AMM%20Protocols.pdf)
 - [SoK: Transparent Dishonesty: front-running attacks on Blockchain](https://arxiv.org/pdf/1902.05164.pdf)
+- [SoK: Blockchain Governance](https://arxiv.org/pdf/2201.07188.pdf)
+- [SoK: Blockchain Light Clients](https://eprint.iacr.org/2021/1657.pdf)
+- [SoK: Validating Bridges as a Scaling Solution for Blockchains](https://eprint.iacr.org/2021/1589.pdf)
+- [SoK: Diving into DAG-based Blockchain Systems](https://arxiv.org/pdf/2012.06128.pdf)
+- [SoK: Auditability and Accountability in Distributed Payment Systems](https://eprint.iacr.org/2021/239.pdf)
