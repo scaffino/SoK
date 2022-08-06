@@ -19,3 +19,4 @@ A list of blockchain-related SoK papers.
 - [SoK: Validating Bridges as a Scaling Solution for Blockchains](https://eprint.iacr.org/2021/1589.pdf)
 - [SoK: Diving into DAG-based Blockchain Systems](https://arxiv.org/pdf/2012.06128.pdf)
 - [SoK: Auditability and Accountability in Distributed Payment Systems](https://eprint.iacr.org/2021/239.pdf)
+- [SoK: Algorithmic Incentive Manipulation Attacks on Permissionless PoW Cryptocurrencies](https://eprint.iacr.org/2020/1614.pdf)
